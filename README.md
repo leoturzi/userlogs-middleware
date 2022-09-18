@@ -11,7 +11,9 @@ Para ello será necesario que tengamos una carpeta denominada **/middlewares** y
 Importante: el archivo _userLogs.txt_ deberá ir almacenando TODAS las rutas a las que accede el usuario. El mismo deberá verse así:
 
 **El usuario ingresó a la ruta: /services**
+
 **El usuario ingresó a la ruta: /services/design**
+
 **El usuario ingresó a la ruta: /**
 
 Y así sucesivamente con el resto de las rutas.
